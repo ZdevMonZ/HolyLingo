@@ -1,0 +1,2 @@
+# HolyLingo
+DuoLingo Bible Version
