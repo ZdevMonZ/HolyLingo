@@ -1,2 +1,6 @@
-# HolyLingo
-DuoLingo Bible Version
+# HolyLingo #BibleGo
+DuoLingo Bible Version 
+- 성경 구절 속 단어를 빈칸 채우기로 맞추기
+- 성경 속 인물 키워드 짝짓기
+- 성경 구절을 소리내어서 읽기
+- 성경 속 인물들이 특정 씬을 배경으로 서로 대화하기 : 이때 적절한 대답을 고르는 퀴즈 제공
